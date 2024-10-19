@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "deploy": "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
