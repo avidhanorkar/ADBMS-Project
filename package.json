@@ -17,6 +17,7 @@
     "mongoose": "^8.7.0"
   },
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "nodemon": "^3.1.7"
   }
 }
