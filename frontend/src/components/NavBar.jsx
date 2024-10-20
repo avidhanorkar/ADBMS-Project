@@ -32,6 +32,7 @@ export default function NavBar() {
           textAlign={"center"}
           bgGradient={"linear(to-r, cyan.400, blue.500)"}
           bgClip={"text"}
+          _hover={{ color: "cyan.600"  , textDecoration: "underline"}}
         >
           <Link to={"/"}>Product Store 🛒</Link>
         </Text>
